@@ -11,7 +11,7 @@ I'm **Jérémy**, a graduate student in Computer Science. I study ICS Security u
 - The Lord of the Rings
 - Trying to learn German
 
-## Projects
+## Current Projects
 - Extensive Form Game Tree Viewer
 - My learning website
 
