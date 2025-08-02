@@ -20,6 +20,6 @@ I'm **Jérémy**, a graduate student in Computer Science. I study ICS Security u
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,git,linux,neovim&perline=8" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,neovim,linux&perline=8" />
   </a>
 </p>
