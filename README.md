@@ -3,7 +3,7 @@
 
 
 
-I'm **Jérémy**, a graduate student in Computer Science. I study ICS Security using game theory, but I am also interested in low-level programming, operating systems and of course all of cybersecurity. I'm a **big** Tolkien fan !
+I'm **Jérémy**, a graduate student in Computer Science. I study ICPS Security using game theory, but I am also interested in low-level programming, operating systems and of course all of cybersecurity. I'm a **big** Tolkien fan !
 
 ## Interests
 - Cybersecurity
@@ -15,8 +15,9 @@ I'm **Jérémy**, a graduate student in Computer Science. I study ICS Security u
 - Trying to learn German
 
 ## Current Projects
-- Extensive Form Game Tree Viewer
+- My research in ICPS Security
 - My learning journey website
+- HackTheBox
 
 <p align="center">
   <a href="https://skillicons.dev">
