@@ -1,5 +1,5 @@
 # Jérémy Dumas—@j-dumas
-[![Website](https://img.shields.io/badge/Personnal%20website-darkorchid)](https://j-dumas.github.io/learning-logs)
+[![Website](https://img.shields.io/badge/Personnal%20website-darkorchid)](https://j-dumas.github.io/)
 
 
 
